@@ -8,4 +8,4 @@ Ini adalah contoh proyek untuk latihan GitHub dengan materi pembelajaran Hotspot
 
 Video ini menjelaskan cara konfigurasi Hotspot Mikrotik:
 
-[Lihat Video Tutorial Hotspot Mikrotik](https://drive.google.com/file/d/1R7uRytQ86HlcFMAfAu66fK_nNeRQPH4Z/view?usp=drive_link)
+[Lihat Video Tutorial Hotspot Mikrotik](https://drive.google.com/file/d/1R7uRytQ86HlcFMAfAu66fK_nNeRQPH4Z/view?usp=sharing)
